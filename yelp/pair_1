@@ -1,0 +1,8 @@
+<head>
+  <script>
+  var win = window.open('https://www.yelp.com/biz/sweet-lew-s-bbq-charlotte', '_blank');
+  win.focus();
+  var win = window.open('https://www.yelp.com/biz/rock-store-bar-b-q-stallings', '_blank');
+  win.focus();
+  </script>
+</head>
